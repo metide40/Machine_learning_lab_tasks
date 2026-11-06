@@ -1,1 +1,1 @@
-# Machine Learning Lab Tasks
+Machine Learning Lab Tasks of JU campus
